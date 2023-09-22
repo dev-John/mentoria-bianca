@@ -1,0 +1,35 @@
+1. **Criando um Array:**
+   Crie um array chamado `frutas` que contenha nomes de diferentes frutas (por exemplo, "maçã", "banana", "laranja").
+
+2. **Acessando Elementos:**
+   Acesse e imprima no console o terceiro elemento do array `frutas`.
+
+3. **Adicionando Elementos:**
+   Adicione uma nova fruta, como "uva", ao final do array `frutas`.
+
+4. **Removendo Elementos:**
+   Remova a primeira fruta do array `frutas`.
+
+5. **Verificando o Comprimento:**
+   Verifique e imprima no console o comprimento atual do array `frutas`.
+
+6. **Iterando com Loop:**
+   Use um loop `forEach` para percorrer o array `frutas` e imprimir cada fruta no console.
+
+7. **Encontrando um Elemento:**
+   Escreva uma função que aceite uma fruta como parâmetro e retorne se essa fruta existe ou não no array `frutas`.
+
+8. **Ordenando o Array:**
+   Ordene o array `frutas` em ordem alfabética e imprima o resultado no console.
+
+9. **Juntando Arrays:**
+   Crie um segundo array chamado `frutas2` com algumas frutas diferentes. Em seguida, concatene os dois arrays em um único array chamado `frutasCombinadas`.
+
+10. **Removendo Duplicatas:**
+    Remova qualquer fruta duplicada do array `frutasCombinadas` para que cada fruta apareça apenas uma vez.
+
+11. **Substituindo Elementos:**
+    Substitua a segunda fruta no array `frutasCombinadas` por "pêssego".
+
+12. **Filtrando o Array:**
+    Crie um novo array chamado `frutasSelecionadas` que contenha apenas frutas que começam com a letra "m".

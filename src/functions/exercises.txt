@@ -1,0 +1,35 @@
+1. **Função de Saudação:**
+   Crie uma função chamada `saudacao` que aceite um nome como parâmetro e retorne uma saudação com o nome. Por exemplo, se o nome for "Alice", a função deve retornar "Olá, Alice!".
+
+2. **Função de Soma:**
+   Crie uma função chamada `soma` que aceite dois números como parâmetros e retorne a soma deles.
+
+3. **Função de Subtração:**
+   Crie uma função chamada `subtracao` que aceite dois números como parâmetros e retorne a diferença entre eles.
+
+4. **Função de Multiplicação:**
+   Crie uma função chamada `multiplicacao` que aceite dois números como parâmetros e retorne o resultado da multiplicação.
+
+5. **Função de Divisão:**
+   Crie uma função chamada `divisao` que aceite dois números como parâmetros e retorne o resultado da divisão.
+
+6. **Função de Verificação Par ou Ímpar:**
+   Crie uma função chamada `ehPar` que aceite um número como parâmetro e retorne `true` se o número for par e `false` se for ímpar.
+
+7. **Função de Maior Número:**
+   Crie uma função chamada `maiorNumero` que aceite três números como parâmetros e retorne o maior deles.
+
+8. **Função de Média de Notas:**
+   Crie uma função chamada `mediaNotas` que aceite um array de números (notas) como parâmetro e retorne a média das notas.
+
+9. **Função de Contagem de Vogais:**
+   Crie uma função chamada `contarVogais` que aceite uma string como parâmetro e retorne o número de vogais na string.
+
+10. **Função de Verificação de Palíndromo:**
+    Crie uma função chamada `ehPalindromo` que aceite uma string como parâmetro e retorne `true` se a string for um palíndromo (ou seja, lida da mesma forma de trás para frente) e `false` caso contrário.
+
+11. **Função de Potência:**
+    Crie uma função chamada `potencia` que aceite dois números como parâmetros e retorne o resultado do primeiro número elevado à potência do segundo número.
+
+12. **Função de Concatenação de Strings:**
+    Crie uma função chamada `concatenar` que aceite duas strings como parâmetros e retorne uma única string que seja a concatenação das duas.
