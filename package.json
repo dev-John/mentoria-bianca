@@ -1,0 +1,14 @@
+{
+  "name": "mentoria-js-ts",
+  "version": "1.0.0",
+  "description": "Mentoria JS/TS",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/objects/index.ts"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}

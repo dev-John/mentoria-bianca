@@ -1,0 +1,35 @@
+1. **Criando um Objeto:**
+   Crie um objeto chamado `pessoa` que represente uma pessoa com as propriedades `nome`, `idade` e `cidade`. Preencha essas propriedades com informações fictícias.
+
+2. **Acessando Propriedades:**
+   Acesse e imprima no console a idade da pessoa do exercício anterior.
+
+3. **Adicionando Propriedades:**
+   Adicione uma propriedade `profissao` ao objeto `pessoa` e defina-a como "programador".
+
+4. **Alterando Propriedades:**
+   Altere a cidade da pessoa para uma cidade diferente.
+
+5. **Método em um Objeto:**
+   Crie um método no objeto `pessoa` chamado `apresentar` que imprima uma mensagem de apresentação no console, incluindo o nome, idade, cidade e profissão da pessoa.
+
+6. **Objetos Aninhados:**
+   Crie um objeto chamado `endereco` que represente um endereço com as propriedades `rua`, `numero`, `bairro` e `cep`. Adicione este objeto como uma propriedade do objeto `pessoa`.
+
+7. **Acessando Propriedades Aninhadas:**
+   Acesse e imprima no console o número da rua do endereço da pessoa.
+
+8. **Método com Propriedades Aninhadas:**
+   Adicione um método chamado `enderecoCompleto` ao objeto `pessoa` que retorne uma string com o endereço completo, incluindo rua, número, bairro e cep.
+
+9. **Criando Outro Objeto:**
+   Crie um segundo objeto chamado `carro` com propriedades como `marca`, `modelo`, `ano` e `cor`.
+
+10. **Arrays de Objetos:**
+    Crie um array chamado `pessoas` que contenha várias pessoas (objetos) com diferentes nomes, idades, cidades e profissões. Imprima esse array no console.
+
+11. **Método para Buscar:**
+    Crie um método chamado `buscarPorNome` que aceite um nome como parâmetro e retorne a pessoa correspondente desse array, se existir. Caso contrário, retorne "Pessoa não encontrada".
+
+12. **Modificar Propriedades em um Array de Objetos:**
+    Percorra o array de pessoas e adicione uma propriedade `saudacao` a cada pessoa com uma saudação personalizada usando seu nome.
