@@ -4,7 +4,8 @@
     /* Basic Options */
     // "incremental": true,                         /* Enable incremental compilation */
     "outDir": "./dist",
-    "target": "ES6",
+    "lib": ["es6", "dom", "es2017"],
+    "target": "es5",
     "module": "commonjs" /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', 'es2020', or 'ESNext'. */,
 
     /* Strict Type-Checking Options */
